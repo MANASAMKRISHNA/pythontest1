@@ -1,5 +1,5 @@
 from lorem_text import lorem
-
+import MySQLdb
 
 def main(params):
      words = 10
