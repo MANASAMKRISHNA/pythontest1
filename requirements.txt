@@ -1,1 +1,7 @@
 lorem-text
+mysqlclient
+datetime
+collection
+requests==2.31.0
+configparser==6.0.0
+pytz
